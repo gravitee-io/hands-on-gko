@@ -2,7 +2,7 @@ version: 2.1
 
 orbs: 
   kubernetes: circleci/kubernetes@1.3.1
-  keeper: gravitee-io/keeper@0.6.2
+  keeper: gravitee-io/keeper@0.6.3
 
 executors:
   azure-cli:
